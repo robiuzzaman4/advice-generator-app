@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-UQKnzsi180](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new)
 - Live Site URL: [(https://robiuzzaman4.github.io/advice-generator-app/](https://robiuzzaman4.github.io/advice-generator-app/)
 
 
