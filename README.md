@@ -29,20 +29,22 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new)
-- Live Site URL: [Add live site URL here](https://robiuzzaman4.github.io/advice-generator-app/)
+- Solution URL: [https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/solutions/new)
+- Live Site URL: [(https://robiuzzaman4.github.io/advice-generator-app/](https://robiuzzaman4.github.io/advice-generator-app/)
 
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
+- Semantic HTML5 Markup
+- CSS Custom Properties
+- CSS Flexbox
+- Vanila JavaScript
+- Advice Slip Api
+- Mobile-first Workflow
 
 
 ## Author
 
-- Website - [Md. Robiuzzaman Ruhan](https://minifolio-portfolio.netlify.app/)
-- Frontend Mentor - [@@robiuzzaman4](https://www.frontendmentor.io/profile/@robiuzzaman4)
+- Website - [robiuzzaman](https://minifolio-portfolio.netlify.app/)
+- Frontend Mentor - [@robiuzzaman4](https://www.frontendmentor.io/profile/@robiuzzaman4)
 - Twitter - [@robuizzaman4](https://twitter.com/robiuzzaman4)
